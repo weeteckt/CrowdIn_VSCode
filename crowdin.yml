@@ -1,0 +1,3 @@
+files:
+  - source: /Source/
+    translation: /Target/%locale_with_underscore%
