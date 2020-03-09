@@ -4,11 +4,20 @@
     <body>
       <trans-unit id="caret.moveLeft" approved="yes">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="zh-CN" state="final">左移将插入点</target>
+        <target xml:lang="zh-CN" state="final">左移将插入点a</target>
+        <alt-trans>
+          <target xml:lang="zh-CN">左移将插入点</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="zh-CN" state="translated">将插入点右移</target>
+        <target xml:lang="zh-CN" state="translated">luchal</target>
+        <alt-trans>
+          <target xml:lang="zh-CN">将插入点右移x</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="zh-CN">将插入点右移</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
