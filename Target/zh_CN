@@ -9,11 +9,17 @@
           <target xml:lang="zh-CN">左移将插入点</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="caret.moveRight">
+      <trans-unit id="caret.moveRight" approved="yes">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="zh-CN" state="translated">luchal</target>
+        <target xml:lang="zh-CN" state="final">将插入点右移x</target>
         <alt-trans>
-          <target xml:lang="zh-CN">将插入点右移x</target>
+          <target xml:lang="zh-CN">将插入点左移luchal2</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="zh-CN">将插入点左移luchal</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="zh-CN">luchal</target>
         </alt-trans>
         <alt-trans>
           <target xml:lang="zh-CN">将插入点右移</target>
