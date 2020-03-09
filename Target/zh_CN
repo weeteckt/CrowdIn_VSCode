@@ -2,13 +2,13 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="src/vs/editor/contrib/caretOperations/caretOperations" source-language="en" datatype="plaintext" target-language="zh-CN">
     <body>
-      <trans-unit id="caret.moveLeft">
+      <trans-unit id="caret.moveLeft" approved="yes">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="zh-CN" state="needs-translation">Move Caret Left</target>
+        <target xml:lang="zh-CN" state="final">左移将插入点</target>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="zh-CN" state="needs-translation">Move Caret Right</target>
+        <target xml:lang="zh-CN" state="translated">将插入点右移</target>
       </trans-unit>
     </body>
   </file>
